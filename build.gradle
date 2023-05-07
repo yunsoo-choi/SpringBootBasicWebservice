@@ -39,7 +39,7 @@ dependencies {
     compileOnly('org.projectlombok:lombok:1.18.20')                                 // javac와 호환 빌드문제로 버전 명시 1.18.20
     //testImplemenetation('junit:junit:4.13.2')
 
-    implementaion('org.springframework.boot:spring-boot-starter-data-jpa')
+    implementation('org.springframework.boot:spring-boot-starter-data-jpa')
     implementation('com.h2database:h2')
 }
 
